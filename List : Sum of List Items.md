@@ -18,7 +18,8 @@ print(sum(L))
 ~~~
 
 ## Output
-![Uploading module 3 exp1.png…]()
+
+<img width="681" height="252" alt="module 3 exp1" src="https://github.com/user-attachments/assets/ddf17afa-c01d-4ba5-8019-37c50c1620a3" />
 
 ## Result
 Thus, the program has been successfully executed.
